@@ -1,6 +1,4 @@
-# Project: I Am Learning Python
-
-### Rock Paper Scissors Game
+# Rock Paper Scissors Game
 
 - This is a simple Rock-Paper-Scissors game written in Python. It allows the user to play against the computer in an interactive and fun way.
 
